@@ -2,7 +2,14 @@
 
 My daily coding practice.
 
-- `python/` - 20 solved programs (01-practice.py to 20-practice.py) + `questions.txt` (25 unsolved questions)
-- `java/` - 20 solved programs (Practice01.java to Practice20.java) + `questions.txt` (25 unsolved questions)
+- `practice.py` - 20 solved Python programs + 25 unsolved questions (at the bottom)
+- `Practice.java` - 20 solved Java programs + 25 unsolved questions (at the bottom)
+
+Run:
+```
+python practice.py
+javac Practice.java && java Practice
+```
+Then choose a program number (1-20).
 
 -- Arjun Kumar, BCA student
