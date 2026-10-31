@@ -1,6 +1,6 @@
 """
 Python Practice - Arjun Kumar
-20 solved programs. Run: python practice.py and choose a number.
+20 solved programs. Run: python Practice.py and choose a number.
 Unsolved practice questions are at the bottom of this file.
 """
 
